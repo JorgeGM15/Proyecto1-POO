@@ -1,6 +1,6 @@
 # Sistema de Gestión de Librería en Java (Ejemplo de POO)
 
-Este repositorio contiene un proyecto simple en Java que demuestra los principios básicos de la **Programación Orientada a Objetos (POO)**. El programa simula la gestión de una librería, permitiendo agregar, eliminar y mostrar libros.
+Este repositorio contiene un proyecto en Java de la **Programación Orientada a Objetos (POO)**. El programa simula la gestión de una librería, permitiendo agregar, eliminar y mostrar libros.
 
 ---
 
